@@ -8,10 +8,10 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 @SpringBootApplication
-public class SpringBootTrainingProjectApplication {
+public class ScheduleMaker {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpringBootTrainingProjectApplication.class, args);
+        SpringApplication.run(ScheduleMaker.class, args);
     }
 
     @RestController
