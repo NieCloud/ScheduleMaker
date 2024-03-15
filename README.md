@@ -20,8 +20,8 @@ This Spring Boot application is designed for creating and managing schedules and
 Before you can run this application, make sure you have JDK 1.8 or later and Maven 3.2+ installed. You will also need PostgreSQL installed and configured.
 
 ```bash
-git clone https://github.com/NieCloud/Spring-Boot-Training-Project.git
-cd Spring-Boot-Training-Project
+git clone https://github.com/NieCloud/ScheduleMaker.git
+cd ScheduleMaker
 mvn spring-boot:run
 ```
 
