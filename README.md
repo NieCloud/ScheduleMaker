@@ -34,4 +34,3 @@ To start the application, run:
 Copy code
 ```mvn spring-boot:run```
 Navigate to http://localhost:8080 to access the application interface. Here you can create, view, and manage schedules and Gantt diagrams.
-![image](https://github.com/NieCloud/ScheduleMaker/assets/94974274/ce1d89c9-6748-40e1-99e1-71ed9c825900)
